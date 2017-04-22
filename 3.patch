@@ -1,0 +1,21 @@
+From 07d163a60fd4f4c69a85a64652ae9b7e5e2e5de1 Mon Sep 17 00:00:00 2001
+From: cvtenoriog <cvtenoriog@gmail.com>
+Date: Tue, 18 Apr 2017 00:44:16 -0300
+Subject: [PATCH] update  README.md
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 66bd8aa..5245b4f 100644
+--- a/README.md
++++ b/README.md
+@@ -103,7 +103,7 @@ The current build released is 0.0.2
+ 
+ ## Authors
+ 
+-* **Candy Tenorio Gonzales (CANDY@EMAIL)**
++* **Candy Tenorio Gonzales (cvtenoriog@gmail.com)**
+ * **Décio Lauro Soares (deciolauro@gmail.com)**
+ * **Fatemeh Mosaiyebzadeh (mahshid.msy179@gmail.com)**
